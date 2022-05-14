@@ -1,0 +1,408 @@
+{
+  "category": [
+    {
+      "id": 2,
+      "name": "ĐIỆN THOẠI"
+    },
+    {
+      "id": 3,
+      "name": "LAP TOP"
+    },
+    {
+      "id": 4,
+      "name": "TABLET"
+    },
+    {
+      "name": "PHỤ KIỆN",
+      "createdAt": 1650771611367,
+      "id": 5
+    }
+  ],
+  "hangsx": [
+    {
+      "id": 1,
+      "name": "APPLE"
+    },
+    {
+      "id": 2,
+      "name": "DELL"
+    },
+    {
+      "id": 3,
+      "name": "Ipad sam sung"
+    },
+    {
+      "id": 4,
+      "name": "máy nghe nhạc"
+    },
+    {
+      "id": 5,
+      "name": "BlackBerry "
+    },
+    {
+      "id": 6,
+      "name": "Trung Quốc"
+    },
+    {
+      "id": 7,
+      "name": "Asus"
+    }
+  ],
+  "product": [
+    {
+      "name": "Laptop Dell Inspiron 7567 N7567A",
+      "price": "25980000 ",
+      "discount": "10%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fdell-7567-N7567A-01.jpg?alt=media&token=a42c980c-f6c2-44f6-a53b-93a31d7d169e",
+      "des": "Laptop Dell Inspiron 7567 N7567A – Core i7-7700HQ/Win10 (15.6 inch) – Đen – Hàng Chính Hãng được trang bị bộ vi xử lý 4 nhân của Intel core i7-7700HQ với tốc độ xung nhịp lên tới 3.8Ghz, mang tới hiệu năng làm việc đáng kinh ngạc. Ram 8GB DDR4 2400MHz giúp làm việc đa nhiệm, máy cũng trang bị 2 khe ram để dễ dàng nâng cấp phù hợp với nhu cầu sử dụng. Ram DDR4 cũng giúp bạn tiết kiệm điện năng tiêu thụ ở mức tối đa và tiết kiệm thời gian làm việc, không xảy ra hiện tượng giật khi làm việc. Card rời NVIDIA® GeForce® GTX 1050Ti 4GB GDDR5 giúp bạn làm việc với các phần mềm đồ họa nặng.",
+      "category": "LAP TOP",
+      "quantity": "30",
+      "hangsx": "DELL",
+      "createdAt": 1650622744836,
+      "id": 2
+    },
+    {
+      "name": "iPad Pro 9.7 inch Wifi Cellular 32GB",
+      "price": "16320000",
+      "discount": "5%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fipad-pro-9.7-wifi-4g-32gb-rose-gold-01.jpg?alt=media&token=24f33b70-982d-494a-ade0-4bf8ba87807e",
+      "des": "iPad Pro 9.7 inch Wifi Cellular 32GB – Hàng Chính Hãng là thiết bị đầu tiên của Apple hỗ trợ công nghệ True Tone Display độc quyền. Công nghệ này có 4 cảm biến nhận diện ánh sáng môi trường xung quanh sau đó tự động điều chỉnh ánh sáng và độ sáng màn hình sao cho phù hợp nhất với mắt người dùng. Người dùng đang dùng iPad dưới ánh đèn bàn hay đèn dây tóc sẽ có màn hình tông màu ấm hơn trong khi sử dụng ngoài trời sẽ có tông màu lạnh hơn và sáng hơn.",
+      "category": "TABLET",
+      "quantity": "40",
+      "hangsx": "APPLE",
+      "createdAt": 1650622939263,
+      "id": 3
+    },
+    {
+      "name": "Laptop Asus Rog G752VS-BA263",
+      "price": "50740000",
+      "discount": "5%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fasus-G752VS-BA263-01.jpg?alt=media&token=e61745d5-944b-4782-9dd6-823ea5bf1d84",
+      "des": "Laptop Asus Rog G752VS-BA263 – Core i7-7700HQ/Freedos (17.3 inch) – Xám nổi bật với thiết kế nhỏ gọn, vẻ ngoài năng động, phong cách đơn giản nhưng lại cực kỳ thời trang và tinh tế, cùng với vỏ ngoài phủ tông màu xám tạo điểm nhấn cho máy.\n\nMàn hình khủng 17.3 inch\nĐược trang bị màn hình khủng rộng 17.3 inch cùng tấm nền IPS 120Hz, độ hiển thị Full HD 1920 x 1080 pixcel sẽ đem lại hình ảnh với chất lượng cực sắc nét, độ tương phản cao trong mọi tình huống và từ mọi góc nhìn mà không chiếc máy tính thông thường nào có được.\n\nCâu hình siêu mạnh mẽ\nLatop được trang bị con chip thế hệ mới nhất Intel Core i7 có xung nhịp tối đa lên đến 3.8GHz, cùng dung lượng RAM khủng lên đến 16GB, HDD 1TB sẽ mang đến hiệu năng cực mạnh mẽ, cho bạn thả ga xử lý các hoạt động chạy đa nhiệm trên máy mượt mà hơn, chiến phim, chơi game hay nghe nhạc suốt hằng giờ liền mà không lo giật lag.",
+      "category": "LAP TOP",
+      "quantity": "20",
+      "hangsx": "Asus",
+      "createdAt": 1650623758552,
+      "id": 5
+    },
+    {
+      "name": "Điện Thoại BlackBerry KEYone",
+      "price": "14990000",
+      "discount": "20%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fbb-key-one-01.jpg?alt=media&token=5516d2e4-f01b-440f-b8ed-6aec441269aa",
+      "des": "Nhìn tổng thể, Điện Thoại BlackBerry KEYone có thiết kế cứng cáp viền khung kim loại chia rõ rệt 2 phần màn hình cảm ứng và bàn phím. Kích thước màn hình 4.5 inch độ phân giải 1620x 1080 pixels , cong nhẹ là vừa đủ so với tổng thể, màn hình IPS cho khả năng hiển thị sống động và góc nhìn rộng hơn. Mặt kính cảm ứng cường lực Corning Gorilla Glass 4 cho khả năng bảo vệ tối ưu hơn.",
+      "category": "ĐIỆN THOẠI",
+      "quantity": "20",
+      "hangsx": "BlackBerry ",
+      "id": 6
+    },
+    {
+      "name": "Điện Thoại iPhone 8 Plus 64GB",
+      "price": "21990000",
+      "discount": "10%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fiphone-8-plus-64Gb-03.jpg?alt=media&token=3d1eda0f-5ef0-4615-acd8-b7391b81464c",
+      "des": "Thiết kế đẹp mắt với mặt lưng bằng kính trơn bóng\nĐiện thoại iPhone 8 Plus 64GB nổi bật với thiết kế mặt lưng bằng kính trơn bóng kết hợp cạnh viền mang lại vẻ ngoài sang trọng cho người sở hữu. Mặt trước điện thoại vẫn giữ nguyên tỉ lệ màn hình, viền màn hình khá dày, nút Home cảm ứng lực tích hợp cảm biến vân tay như iPhone 7.",
+      "category": "ĐIỆN THOẠI",
+      "quantity": "5",
+      "hangsx": "APPLE",
+      "id": 7
+    },
+    {
+      "name": "Điện Thoại Motorola Moto G5S Plus",
+      "price": "6280000",
+      "discount": "0%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fmoto-g5s-plus-01.jpg?alt=media&token=2305a8b8-a00a-4261-860d-1f2c6708117c",
+      "des": "Điện Thoại Motorola Moto G5S Plus có thiết kế kim loại nguyên khối, các góc cạnh được bo tròn mềm mại cho cảm giác cầm nắm thoải mái trên tay. Phần mặt lưng đậm chất Moto vẫn được làm bầu bĩnh, ôn sát vào màn hình. Cụm camera được thiết kế với kích thước lớn và lồi lên khá nhiều so với mặt lưng.",
+      "category": "ĐIỆN THOẠI",
+      "quantity": "7",
+      "hangsx": "Motorola ",
+      "id": 8
+    },
+    {
+      "name": "Điện Thoại Samsung Galaxy J7 Pro",
+      "price": "5860000",
+      "discount": "2%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fss-galaxy-j7-pro-01.jpg?alt=media&token=6740dd21-d5e4-4370-be22-88920fb9f142",
+      "des": "Điện Thoại Samsung Galaxy J7 Pro – Hàng Chính Hãng có thiết kế khá bắt mắt với phần khung được thiết kế từ kim loại nguyên khối, lớp kính cong 2.5D, độ dày chỉ 7mm mang lại vẻ đẹp hoàn thiện và tăng sự sang trọng, đẳng cấp cho người sở hữu. Ngoài ra, các cạnh mặt sau bo tròn tiện cho việc cầm nắm và tạo cảm giác mềm mại hơn.",
+      "category": "ĐIỆN THOẠI",
+      "quantity": "5",
+      "hangsx": "Samsung ",
+      "id": 9
+    },
+    {
+      "name": "Điện Thoại Samsung Galaxy Note 8",
+      "price": "19990000",
+      "discount": "1%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fss-galaxy-note-8-01.jpg?alt=media&token=232355df-41bd-4e49-974c-dd8bbdfe8780",
+      "des": "Điện Thoại Samsung Galaxy Note 8 được thiết kế nguyên khối với đường cong hoàn hảo đem lại sự thoải mái khi cầm nắm và tạo nhiều không gian hơn để sử dụng S Pen. Cảm biến vân tay được chuyển ra mặt sau điện thoại, nút Home đặt ẩn bên dưới màn hình vô cực chỉ hiển thị khi bạn cần, mang lại cho người dùng trải nghiệm mượt mà nhất.",
+      "category": "ĐIỆN THOẠI",
+      "quantity": "3",
+      "hangsx": "Samsung",
+      "id": 10
+    },
+    {
+      "name": "Điện Thoại Nokia 5 TA-1008 TA-1030 TA-1053",
+      "price": "3750000",
+      "discount": "4%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fnokia-5-01.jpg?alt=media&token=89a743d4-5713-46e1-be9b-8acdd947eb41",
+      "des": "Thiết kế nguyên khối, liền mạch\nĐiện Thoại Nokia 5 – Hàng Chính Hãng thiết kế tối giản với bộ khung kim loại nguyên khối, liền mạch không vết cắt cho cảm giác cầm nắm chắc tay, bền bỉ và dễ chịu khi sử dụng. Các cạnh và 4 góc của điện thoại được vát cong mềm mại tạo sự tinh tế, sang trọng hơn cho chủ sở hữu.",
+      "category": "ĐIỆN THOẠI",
+      "quantity": "9",
+      "hangsx": "Nokia ",
+      "id": 11
+    },
+    {
+      "name": "Điện Thoại iPhone X 64GB",
+      "price": "29990000",
+      "discount": "7%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fiphone-X-64Gb-01.jpg?alt=media&token=263e12c8-7868-4de6-ba94-28eb602b8445",
+      "des": "Điện Thoại iPhone X 64GB là chiếc điện thoại hoàn toàn mới của Apple vừa mới ra mắt tuần vừa qua. Trên cơ bản, iPhone X vẫn có những tính năng như những dòng iPhone khác nhưng thiết kế bên ngoài lạ mắt hơn, không trang bị nút Home cứng, viền kim loại sang trọng và đặc biệt là cụm camera sau được trang bị theo chiều dọc tạo điểm nhấn cho chiếc điện thoại.",
+      "category": "ĐIỆN THOẠI",
+      "quantity": "3",
+      "hangsx": "APPLE",
+      "id": 12
+    },
+    {
+      "name": "Apple Macbook Air 2017 13.3 inch MQD32",
+      "price": "20890000",
+      "discount": "12%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fmacbook-air-2017-01.jpg?alt=media&token=d740402c-49ab-4e85-a048-cd3f69fbd111",
+      "des": "Apple Macbook Air 2017 13.3 inch MQD32 – Hàng Chính Hãng có thiết kế tối giản nhưng không kém phần sang trọng. Toàn thân máy được gia công từ nhôm nguyên khối một cách tỉ mỉ và chính xác, tạo nên vẻ liền lạc và chắc chắn lại vừa thanh thoát, sang trọng. Nút Power khởi động máy được tích hợp luôn vào góc trên bên phải của bàn phím, vừa gọn vừa thẩm mỹ. Cả phần màn hình cũng được gia công kiểu Unibody hợp kim nhôm nguyên khối, các cạnh được bo tròn và dát mỏng tạo nên tổng thể máy một thiết kế tuyệt mỹ, tuyệt đẹp trong các dòng Ultrabook.",
+      "category": "LAP TOP",
+      "quantity": "32",
+      "hangsx": "Apple",
+      "id": 13
+    },
+    {
+      "name": "Laptop HP ProBook 440 G3 T9S24PA",
+      "price": "10920000",
+      "discount": "0%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fhp-probook-440-g3-t9s24pa-01.jpg?alt=media&token=9d304553-9155-44ae-96fa-30f2910e56a1",
+      "des": "Laptop HP ProBook 440 G3 T9S24PA Bạc là sản phẩm laptop của HP được trang bị bộ vi xử lý thế hệ thứ 6 của Intel –Skylake- mang lại hiệu năng vượt trội, tuổi thọ pin dài hơn, đồng thời cải tiến thiết kế mỏng và nhẹ hơn cho người dùng văn phòng. Intel  Core™ i3-6100U (3M Cache, 2.3 GHz), Integrated Intel® HD Graphics 520, 4GB RAM và màn hình 14 inch HD Anti-glare LED-backlit là những điểm nhấn trong dòng sản phẩm này.",
+      "category": "LAP TOP",
+      "quantity": "88",
+      "hangsx": "HP ",
+      "id": 14
+    },
+    {
+      "name": "Laptop Lenovo IdeaPad Y520",
+      "price": "21920000",
+      "discount": "17%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Flenovo-IdeaPad-Y520-01.jpg?alt=media&token=441c8209-5ce6-4e6f-827f-c3f33a5d6480",
+      "des": "Laptop Lenovo IdeaPad Y520-15IKBN 80WK00GBVN là dòng laptop chuyên game được Lenovo thiết kế dành riêng cho thị trường Việt Nam. Với độ dày chỉ 25.8 mm và nặng 2.4kg, có thể nói đây là một trong những chiếc máy chuyên game mỏng và nhẹ nhất thị trường.\n\nMáy có thiết kế độc đáo với cụm loa tích hợp ở 2 góc trên phá cách mạnh mẽ. cụm Touchpad được thiết kế lõm xuống cùng 2 mảng cắt 3D dọc 2 bên đem lại cảm giác hiện đại cho người sử dụng.",
+      "category": "LAP TOP",
+      "quantity": "23",
+      "hangsx": "Lenovo ",
+      "id": 15
+    },
+    {
+      "name": "Laptop ASUS ROG Strix SCAR GL503VS-EI037T",
+      "price": "45570000",
+      "discount": "9%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fasus-GL503VS-EI037T-01.jpg?alt=media&token=1b3c22f9-0fc6-4299-9749-b857fe1608bc",
+      "des": "Laptop ASUS ROG Strix SCAR GL503VS-EI037T được cài đặt sẵn Windows 10 và mang đến bạn những trải nghiệm chơi game thật sự đắm chìm nhờ bộ vi xử lý Intel® Core™ i7 thế hệ thứ 7 và đồ họa rời NVIDIA® GeForce® GTX 1070 cùng với 16GB GDDR4. ROG Strix GL503VS được sản xuất cho chơi game và rất thích hợp cho việc sáng tạo.\n\n",
+      "category": "LAP TOP",
+      "quantity": "34",
+      "hangsx": "ASUS ",
+      "id": 16
+    },
+    {
+      "name": "iPad WiFi 128GB New 2017",
+      "price": "10990000",
+      "discount": "45%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fipad-wifi-128Gb-2017-01.jpg?alt=media&token=2b7d07c3-3283-4d18-ad8e-7ab534102284",
+      "des": "iPad WiFi 128GB New 2017 thiết kế nguyên khối kim loại với 4 cạnh cong bo mềm mại, cho cảm giác cầm nắm chắc tay. Chất liệu kim loại cùng logo Apple đặc trưng khó lẫn lộn với các tablet khác.",
+      "category": "TABLET",
+      "quantity": "43",
+      "hangsx": "APPLE",
+      "id": 17
+    },
+    {
+      "name": "Máy Tính Bảng Huawei MediaPad T3 8.0",
+      "price": "3990000",
+      "discount": "4%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fhuawei-mediapad-01.jpg?alt=media&token=1606c57b-e1f2-4c64-8439-3e3d1cc3d3cb",
+      "des": "Máy Tính Bảng Huawei MediaPad T3 8.0 (Vàng) sở hữu thiết kế cực ấn tượng với viền màn hình mỏng, màu sắc trang nhã sẽ làm tôn lên được nét sang trọng, quý phái cho người sở hữu. Ngoài ra, kích thước khá gọn nhẹ dễ dàng mang theo khi di chuyển trong những chuyến công tác xa.",
+      "category": "TABLET",
+      "quantity": "5",
+      "hangsx": "APPLE",
+      "id": 18
+    },
+    {
+      "name": "Máy Tính Bảng Samsung Galaxy Tab E T561",
+      "price": "4690000",
+      "discount": "9%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fss-galaxy-tab-et561-01.jpg?alt=media&token=c55ef3db-75fb-4c4a-ab48-a300827c9cc1",
+      "des": "Samsung Galaxy Tab E T561 có thiết kế thời trang và phong cách cùng mức giá rất hấp dẫn. Máy được trang bị cấu hình phổ thông với RAM 1.5GB, ROM 8GB, bộ vi xử lý 4 nhân cùng camera ra 5.0MP và 2.0MP. Màn hình 9.6 inch rộng rãi để người dùng có thể sử dụng chức năng chia đôi màn hình để nâng cao hiệu quả làm việc và giải trí.",
+      "category": "TABLET",
+      "quantity": "7",
+      "hangsx": "Samsung ",
+      "id": 19
+    },
+    {
+      "name": "Tai Nghe JBL T450BT – Hàng Chính Hãng",
+      "price": "1600000",
+      "discount": "0%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fjbl-t450-02.jpg?alt=media&token=cf868ebf-0325-48ab-9520-943504825d4d",
+      "des": "Tai Nghe JBL T450BT – Hàng Chính Hãng được thiết kế trẻ trung, đẹp mắt với 3 màu sắc: đen, trắng, xanh thích hợp sở thích của nhiều bạn trẻ.\n\nSản phẩm mang trong mình nhiều đường nét thiết kế dạng on ear với thân hình nhỏ gọn cho cảm giác thích thú khi lần đầu tiên cầm trên tay.",
+      "category": "PHỤ KIỆN",
+      "quantity": "23",
+      "hangsx": "JBL ",
+      "id": 20
+    },
+    {
+      "name": "HD Headphone Amplifier Creative Sound Blaster E3",
+      "price": "3245000",
+      "discount": "3%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2FBlaster-E3-01.jpg?alt=media&token=2a2770d7-8de0-4362-878b-a9d3b7b6eb23",
+      "des": "HD Headphone Amplifier Creative Sound Blaster E3 – Hàng Chính Hãng trang bị bộ khuếch đại tai nghe tích hợp hỗ trợ lên đến 600 ounm, vì vậy không có giới hạn đối với loại tai nghe mà bạn có thể ghép nối với Sound Blaster E3.\nÂm nhạc được truyền trực tiếp qua Bluetooth đến Sound Blaster E3. Vì vậy, ngay cả khi bạn chuck điện thoại của bạn vào túi của bạn, bạn có thể kiểm soát phát âm nhạc.\nKhi kết nối với máy tính cá nhân và máy Mac thông qua USB, bạn có thể kích hoạt công nghệ CrystalVoice, một bộ cải tiến làm giảm tiếng ồn và cung cấp các cuộc hội thoại rõ ràng hơn.\nHD Headphone Amplifier Creative Sound Blaster E3 nhỏ và nhẹ, chỉ 44 gram, điều này có nghĩa là bạn có thể mang theo sử dụng bất kỳ khi nào.",
+      "category": "PHỤ KIỆN",
+      "quantity": "22",
+      "hangsx": "Creative",
+      "id": 21
+    },
+    {
+      "name": "Máy Nghe Nhạc Transcend TS8GMP710W",
+      "price": "1520000",
+      "discount": "2%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Ftranscend-TS8GMP710W-01.jpg?alt=media&token=71e4f8ac-cb28-4212-98df-b51925115cdb",
+      "des": "Chức năng định sẵn tổng thời gian tập\nMáy Nghe Nhạc Transcend TS8GMP710W được cài đặt với chế độ Fitness giúp định sẵn thời gian, tiêu chuẩn cơ bản cho buổi tập thể dục.",
+      "category": "PHỤ KIỆN",
+      "quantity": "21",
+      "hangsx": "Transcend",
+      "id": 22
+    },
+    {
+      "name": "Ốp Lưng Dẻo Cho iPhone 6 Plus/6s Plus",
+      "price": "90000",
+      "discount": "2%",
+      "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fop-deo-hinh-thu-01.jpg?alt=media&token=213d42d3-46fb-41d5-bfaf-0a8f00f18883",
+      "des": "Ốp Lưng Dẻo Cho iPhone 6plus/6s plus – Gấu Kèm Thú Nổi được khắc họa với hình ảnh chú gấu đáng yêu. Ngoài ra, ốp còn có hình chú gấu nổi rất độc đáo, tạo điểm nhấn cho điện thoại của bạn.\nỐp giúp tránh bám dính vân tay, mồ hôi cho bạn cảm giác cầm nắm chắc chắn hơn khi sử dụng cũng là một trong những điểm cộng tích cực cho chiếc ốp nhỏ nhắn này.\nSản phẩm còn có độ đàn hồi tốt, hạn chế bị biến dạng bởi tác động ngoại lực từ môi trường bên ngoài.\nBên cạnh đó, các họa tiết bắt mắt, ngộ  nghĩnh cùng màu sắc tươi tắn mang đến vẻ đẹp sang trọng hơn cho chiếc điện thoại của bạn.\nSản phẩm với form cực chuẩn có thể ôm trọn mặt lưng và khung viền hai bên của máy giúp bảo quản, hạn chế sự ảnh hưởng bởi các tác nhân gây ra trầy xước, nứt vỡ.\nNgoài ra, vị trí các nút bấm của ốp lưng được làm chính xác và cho cảm giác bấm thoải mái như khi dùng trực tiếp với máy.",
+      "category": "PHỤ KIỆN",
+      "quantity": "222",
+      "hangsx": "Việt Nam",
+      "id": 23
+    }
+  ],
+  "user": [
+    {
+      "name": "buinam",
+      "password": "Buinam1",
+      "id": 1
+    }
+  ],
+  "order": [
+    {
+      "valuefrom": {
+        "name": "bùi nam",
+        "address": "thôn hoàng cương",
+        "phone": "0293923223",
+        "email": "buinam@gmail.com",
+        "note": "ship nhanh giúp mình nhé"
+      },
+      "cart": [
+        {
+          "name": "iPad Pro 9.7 inch Wifi Cellular 32GB",
+          "price": "16320000",
+          "discount": "5%",
+          "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fipad-pro-9.7-wifi-4g-32gb-rose-gold-01.jpg?alt=media&token=24f33b70-982d-494a-ade0-4bf8ba87807e",
+          "des": "iPad Pro 9.7 inch Wifi Cellular 32GB – Hàng Chính Hãng là thiết bị đầu tiên của Apple hỗ trợ công nghệ True Tone Display độc quyền. Công nghệ này có 4 cảm biến nhận diện ánh sáng môi trường xung quanh sau đó tự động điều chỉnh ánh sáng và độ sáng màn hình sao cho phù hợp nhất với mắt người dùng. Người dùng đang dùng iPad dưới ánh đèn bàn hay đèn dây tóc sẽ có màn hình tông màu ấm hơn trong khi sử dụng ngoài trời sẽ có tông màu lạnh hơn và sáng hơn.",
+          "category": "TABLET",
+          "quantity": "40",
+          "hangsx": "APPLE",
+          "createdAt": 1650622939263,
+          "id": 3,
+          "totalcart": 1
+        },
+        {
+          "name": "Laptop Asus Rog G752VS-BA263",
+          "price": "50740000",
+          "discount": "5%",
+          "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fasus-G752VS-BA263-01.jpg?alt=media&token=e61745d5-944b-4782-9dd6-823ea5bf1d84",
+          "des": "Laptop Asus Rog G752VS-BA263 – Core i7-7700HQ/Freedos (17.3 inch) – Xám nổi bật với thiết kế nhỏ gọn, vẻ ngoài năng động, phong cách đơn giản nhưng lại cực kỳ thời trang và tinh tế, cùng với vỏ ngoài phủ tông màu xám tạo điểm nhấn cho máy.\n\nMàn hình khủng 17.3 inch\nĐược trang bị màn hình khủng rộng 17.3 inch cùng tấm nền IPS 120Hz, độ hiển thị Full HD 1920 x 1080 pixcel sẽ đem lại hình ảnh với chất lượng cực sắc nét, độ tương phản cao trong mọi tình huống và từ mọi góc nhìn mà không chiếc máy tính thông thường nào có được.\n\nCâu hình siêu mạnh mẽ\nLatop được trang bị con chip thế hệ mới nhất Intel Core i7 có xung nhịp tối đa lên đến 3.8GHz, cùng dung lượng RAM khủng lên đến 16GB, HDD 1TB sẽ mang đến hiệu năng cực mạnh mẽ, cho bạn thả ga xử lý các hoạt động chạy đa nhiệm trên máy mượt mà hơn, chiến phim, chơi game hay nghe nhạc suốt hằng giờ liền mà không lo giật lag.",
+          "category": "LAP TOP",
+          "quantity": "20",
+          "hangsx": "Asus",
+          "createdAt": 1650623758552,
+          "id": 5,
+          "totalcart": 1
+        },
+        {
+          "name": "Điện Thoại BlackBerry KEYone",
+          "price": "14990000",
+          "discount": "20%",
+          "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fbb-key-one-01.jpg?alt=media&token=5516d2e4-f01b-440f-b8ed-6aec441269aa",
+          "des": "Nhìn tổng thể, Điện Thoại BlackBerry KEYone có thiết kế cứng cáp viền khung kim loại chia rõ rệt 2 phần màn hình cảm ứng và bàn phím. Kích thước màn hình 4.5 inch độ phân giải 1620x 1080 pixels , cong nhẹ là vừa đủ so với tổng thể, màn hình IPS cho khả năng hiển thị sống động và góc nhìn rộng hơn. Mặt kính cảm ứng cường lực Corning Gorilla Glass 4 cho khả năng bảo vệ tối ưu hơn.",
+          "category": "ĐIỆN THOẠI",
+          "quantity": "20",
+          "hangsx": "BlackBerry ",
+          "id": 6,
+          "totalcart": 1
+        }
+      ],
+      "totalorder": 82050000,
+      "id": 1
+    },
+    {
+      "valuefrom": {
+        "name": "bùi huy",
+        "address": "thôn hoàng sỹ",
+        "phone": "0835324533",
+        "email": "buihuy@gmail.com",
+        "note": ""
+      },
+      "cart": [
+        {
+          "name": "Tai Nghe JBL T450BT – Hàng Chính Hãng",
+          "price": "1600000",
+          "discount": "0%",
+          "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fjbl-t450-02.jpg?alt=media&token=cf868ebf-0325-48ab-9520-943504825d4d",
+          "des": "Tai Nghe JBL T450BT – Hàng Chính Hãng được thiết kế trẻ trung, đẹp mắt với 3 màu sắc: đen, trắng, xanh thích hợp sở thích của nhiều bạn trẻ.\n\nSản phẩm mang trong mình nhiều đường nét thiết kế dạng on ear với thân hình nhỏ gọn cho cảm giác thích thú khi lần đầu tiên cầm trên tay.",
+          "category": "PHỤ KIỆN",
+          "quantity": "23",
+          "hangsx": "JBL ",
+          "id": 20,
+          "totalcart": 1
+        },
+        {
+          "name": "HD Headphone Amplifier Creative Sound Blaster E3",
+          "price": "3245000",
+          "discount": "3%",
+          "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2FBlaster-E3-01.jpg?alt=media&token=2a2770d7-8de0-4362-878b-a9d3b7b6eb23",
+          "des": "HD Headphone Amplifier Creative Sound Blaster E3 – Hàng Chính Hãng trang bị bộ khuếch đại tai nghe tích hợp hỗ trợ lên đến 600 ounm, vì vậy không có giới hạn đối với loại tai nghe mà bạn có thể ghép nối với Sound Blaster E3.\nÂm nhạc được truyền trực tiếp qua Bluetooth đến Sound Blaster E3. Vì vậy, ngay cả khi bạn chuck điện thoại của bạn vào túi của bạn, bạn có thể kiểm soát phát âm nhạc.\nKhi kết nối với máy tính cá nhân và máy Mac thông qua USB, bạn có thể kích hoạt công nghệ CrystalVoice, một bộ cải tiến làm giảm tiếng ồn và cung cấp các cuộc hội thoại rõ ràng hơn.\nHD Headphone Amplifier Creative Sound Blaster E3 nhỏ và nhẹ, chỉ 44 gram, điều này có nghĩa là bạn có thể mang theo sử dụng bất kỳ khi nào.",
+          "category": "PHỤ KIỆN",
+          "quantity": "22",
+          "hangsx": "Creative",
+          "id": 21,
+          "totalcart": 1
+        },
+        {
+          "name": "Máy Nghe Nhạc Transcend TS8GMP710W",
+          "price": "1520000",
+          "discount": "2%",
+          "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Ftranscend-TS8GMP710W-01.jpg?alt=media&token=71e4f8ac-cb28-4212-98df-b51925115cdb",
+          "des": "Chức năng định sẵn tổng thời gian tập\nMáy Nghe Nhạc Transcend TS8GMP710W được cài đặt với chế độ Fitness giúp định sẵn thời gian, tiêu chuẩn cơ bản cho buổi tập thể dục.",
+          "category": "PHỤ KIỆN",
+          "quantity": "21",
+          "hangsx": "Transcend",
+          "id": 22,
+          "totalcart": 1
+        },
+        {
+          "name": "Ốp Lưng Dẻo Cho iPhone 6 Plus/6s Plus",
+          "price": "90000",
+          "discount": "2%",
+          "photoavt": "https://firebasestorage.googleapis.com/v0/b/luu-anh-4233f.appspot.com/o/images%2Fop-deo-hinh-thu-01.jpg?alt=media&token=213d42d3-46fb-41d5-bfaf-0a8f00f18883",
+          "des": "Ốp Lưng Dẻo Cho iPhone 6plus/6s plus – Gấu Kèm Thú Nổi được khắc họa với hình ảnh chú gấu đáng yêu. Ngoài ra, ốp còn có hình chú gấu nổi rất độc đáo, tạo điểm nhấn cho điện thoại của bạn.\nỐp giúp tránh bám dính vân tay, mồ hôi cho bạn cảm giác cầm nắm chắc chắn hơn khi sử dụng cũng là một trong những điểm cộng tích cực cho chiếc ốp nhỏ nhắn này.\nSản phẩm còn có độ đàn hồi tốt, hạn chế bị biến dạng bởi tác động ngoại lực từ môi trường bên ngoài.\nBên cạnh đó, các họa tiết bắt mắt, ngộ  nghĩnh cùng màu sắc tươi tắn mang đến vẻ đẹp sang trọng hơn cho chiếc điện thoại của bạn.\nSản phẩm với form cực chuẩn có thể ôm trọn mặt lưng và khung viền hai bên của máy giúp bảo quản, hạn chế sự ảnh hưởng bởi các tác nhân gây ra trầy xước, nứt vỡ.\nNgoài ra, vị trí các nút bấm của ốp lưng được làm chính xác và cho cảm giác bấm thoải mái như khi dùng trực tiếp với máy.",
+          "category": "PHỤ KIỆN",
+          "quantity": "222",
+          "hangsx": "Việt Nam",
+          "id": 23,
+          "totalcart": 2
+        }
+      ],
+      "totalorder": 6545000,
+      "id": 2
+    }
+  ]
+}
