@@ -125,5 +125,5 @@ server.use(router)
 //   console.log('Run Auth API Server')
 // })
 server.listen(server_port, server_host, function() {
-  console.log('Listening on port %d', server_port);
+    console.log('Listening on port %d', server_port);
 });
