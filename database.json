@@ -289,12 +289,8 @@
       "name": "buinam",
       "password": "Buinam1",
       "id": 1
-    },
-    {
-      "name": "minhnguyet",
-      "password": "Minhnguyet1",
-      "id": 2
     }
+  
   ],
   "order": [
     {

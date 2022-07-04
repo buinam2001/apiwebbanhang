@@ -121,9 +121,7 @@ server.use(/^(?!\/auth).*$/,  (req, res, next) => {
 
 server.use(router)
 
-// server.listen(5000, () => {
-//   console.log('Run Auth API Server')
-// })
+
 server.listen(server_port, server_host, function() {
     console.log('Listening on port %d', server_port);
 });
