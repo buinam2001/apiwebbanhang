@@ -2,8 +2,11 @@
   "name": "json-server-api",
   "version": "1.0.0",
   "description": "Simple Fake API",
-  "main": "main.js",
+  "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": "14.x"
+  },
 
   "scripts": {
     "start-demo": "json-server --watch ./database.json",
