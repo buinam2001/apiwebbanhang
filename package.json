@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Simple Fake API",
   "main": "main.js",
+  "type": "module",
 
   "scripts": {
     "start-demo": "json-server --watch ./database.json",
